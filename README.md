@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @FelipeHoffmannV
-- 👀 I’m interested in become a IT professional.
-- 🌱 I’m currently learning programming as a self-taught
-- 📫 How to reach me: email: hoffmannfelipe940@gmail.com
-<!---
-FelipeHoffmannV/FelipeHoffmannV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Olá, me chamo Felipe Hoffmann!
+
+🎯 Estudante de Programação | Iniciando na área de Desenvolvimento
+🚀 Construindo minha jornada na tecnologia e aprendendo todos os dias  
+
+---
+
+## 📚 O que estou aprendendo atualmente
+- Lógica de Programação  
+- Python & Flask  
+- JavaScript & Node.js  
+- Banco de Dados (SQLite, MySQL)  
+- Git & GitHub
+- Inglês
+
+---
+
+## 🔜 Próximos Passos
+- Criar meus primeiros projetos práticos (APIs e sistemas de estudo)  
+- Compartilhar repositórios com meus aprendizados  
+- Construir meu portfólio como desenvolvedor  
+
+---
+
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-hoffmann-viana-8898b6329/) 
+- ✉️ Email: devfelipehoffmann@gmail.com
+
+---
