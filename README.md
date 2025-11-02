@@ -8,8 +8,8 @@
 ## 📚 O que estou aprendendo atualmente
 - Lógica de Programação  
 - Python & Flask  
-- JavaScript & Node.js  
-- Banco de Dados (SQLite, MySQL)  
+- JavaScript
+- Banco de Dados (SQLite)  
 - Git & GitHub
 - Inglês
 
