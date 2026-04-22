@@ -1,7 +1,6 @@
 # 👋 Olá, me chamo Felipe Hoffmann!
 
 🎯 Desenvolvedor em Formação | Especializado em Backend com Python & Django
-🚀 Apaixonado por criar soluções escaláveis e deploy de aplicações em produção
 
 ---
 
@@ -41,6 +40,6 @@ Iniciando minha carreira como desenvolvedor, com foco em desenvolvimento backend
 ## 📫 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/felipe-hoffmann-viana-8898b6329/)
 - ✉️ Email: devfelipehoffmann@gmail.com
-- 🐙 GitHub: [FelipeHoffmannV](https://github.com/FelipeHoffmannV)
+- 
 
 ---
